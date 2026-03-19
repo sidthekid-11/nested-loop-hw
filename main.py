@@ -12,5 +12,4 @@ else:
         b = str(remainder) + b 
         num = num // 2        
 
-# Step 5: Display result
 print("Binary of", before, "is:", b)
